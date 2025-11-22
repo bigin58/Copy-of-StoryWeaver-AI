@@ -1,0 +1,7 @@
+{
+  "name": "Copy of StoryWeaver AI",
+  "description": "A creative writing interface that analyzes images to ghostwrite stories and narrates them using expressive AI voices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
